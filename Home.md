@@ -6,3 +6,5 @@
 - Hadoop 2.9.0
 - Spark 2.3.1
 - Hive 2.3.3
+- Zookeeker 3.4.10
+- Kafka 1.0.0
